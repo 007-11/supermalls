@@ -1,0 +1,12 @@
+root = true
+
+[*]
+charset = utf-8
+# 缩进空格
+indent_style = space
+# 缩进两个空格
+indent_size = 2
+# 最后一排加行
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
